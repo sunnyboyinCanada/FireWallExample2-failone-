@@ -1,0 +1,13 @@
+﻿  FireWall.cpp
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(10): error C2065: 'cout': undeclared identifier
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(10): error C2065: 'endl': undeclared identifier
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(41): error C2659: '=': function as left operand
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(42): error C2446: '!=': no conversion from 'HRESULT' to 'HRESULT (__stdcall *)(LPVOID)'
+  c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(42): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(44): error C2065: 'cont': undeclared identifier
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(44): error C2065: 'endl': undeclared identifier
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(51): error C2440: '=': cannot convert from 'HRESULT (__stdcall *)(const IID &,LPUNKNOWN,DWORD,const IID &,LPVOID *)' to 'HRESULT'
+  c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(51): note: There is no context in which this conversion is possible
+c:\users\sunny kim\desktop\windows firewall example\windowsfirewall\windowsfirewall\firewall.cpp(51): error C2143: syntax error: missing ';' before '}'
+  Source.cpp
+  Generating Code...
